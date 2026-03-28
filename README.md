@@ -2,7 +2,7 @@
 
 | Category | Stack |
 |----------|-------|
-| **Languages** | ![Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,py,go,bash,js,ts,php,graphql) |
+| **Languages** | ![Languages](https://skillicons.dev/icons?i=c,cpp,cs,java,py,go,bash,js,ts,php,graphql,rust) |
 | **Frontend & UI** | ![Frontend & UI](https://skillicons.dev/icons?i=react,vue,alpinejs,pinia,tailwindcss,vite,threejs) |
 | **Backend & Platforms** | ![Backend & Platforms](https://skillicons.dev/icons?i=nodejs,express,prisma,symfony,electron,unity,flask,supabase) |
 | **Databases** | ![Databases](https://skillicons.dev/icons?i=postgres,mongodb) |
